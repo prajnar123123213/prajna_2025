@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: About- Prajna Raj
 permalink: /about/
 ---
 
-About Me: Prajna Raj
 
 **Born**: Tamil Nadu, India!
 
