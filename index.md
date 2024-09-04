@@ -7,7 +7,7 @@ hide: true
 
 ---
 
-<p id="mario" class="sprite"></p>
+<p id="mario" class="sprite"></p> 
   
 <!--- Embedded Cascading Style Sheet (CSS) rules, 
         define how HTML elements look 
