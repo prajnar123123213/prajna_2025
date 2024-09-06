@@ -1,12 +1,11 @@
 ---
 layout: page
-title: About- Prajna Raj
+title: About
 permalink: /about/
 ---
-
+<h1 style="font-size:3vw">Prajna R!</h1>
 
 **Born**: Tamil Nadu, India!
-
 - Moved to *Irvine* at age 4
 - Moved to *San Diego* at age 6
 
