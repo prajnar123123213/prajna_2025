@@ -37,3 +37,10 @@ div.gallery img {
   <img width="250" alt="Screenshot 2024-09-09 at 10 37 56 AM" src="https://github.com/user-attachments/assets/5926be02-b281-400e-813b-74c7a8075b1f">
 </div> 
 
+<hr>
+
+| Notebook 1 | Notebook2 2 | Notebook 3 |
+|----------|----------|----------|
+| [Row 1 Col 1](_notebooks/Foundation/B-tools_and_equipment/2023-08-19-devops_accounts.ipynb) | [Row 1 Col 2 ](_notebooks/Foundation/B-tools_and_equipment/2023-08-22-devops_tools-verify.ipynb)| [Row 1 Col 3 ](_notebooks/Foundation/B-tools_and_equipment/2023-08-23-devops-githhub_pages-play.ipynb)|
+
+
