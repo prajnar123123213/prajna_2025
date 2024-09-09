@@ -29,7 +29,7 @@ Music has always been a huge part of my life, as I have been playing piano ever 
 
 my piano teacher died, and I had to quit. 
 
-<img src="piano recital 2015 (1).JPG" width="200" height="100">
+![piano recital 2015 (1)](https://github.com/user-attachments/assets/ade9aeda-2520-4992-94a3-1f5850406cca)
 
 Afer quitting piano, I switched to an instrument called Veena! Can you guess where this instrument is from?
 
