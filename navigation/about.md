@@ -42,24 +42,25 @@ Afer quitting piano, I switched to an instrument called Veena! Can you guess whe
 Here are some pictures of my life living in India
 
 <div class="gallery">
-    <img src="2015 india visit 326.JPG" alt="Family" width="600" height="400">
+    <img src="https://github.com/user-attachments/assets/5c0814f3-0b57-47a4-adf5-973a6de57d7f" alt="Family" width="600" height="400">
 </div>
 
 <div class="gallery">
-    <img src="2015 india visit 422.JPG" alt="house" width="600" height="400">
+    <img src="https://github.com/user-attachments/assets/a01f95f0-0b60-42d3-ac43-ee36cb1af324" alt="house" width="600" height="400">
 </div>
 
 <div class="gallery">
-    <img src="2015 india visit 113.JPG" alt="temple" width="600" height="400">
+    <img src="https://github.com/user-attachments/assets/5d2fb880-e24d-48ea-9b19-47564799ea7b" alt="temple" width="400" height="600">
 </div>
 
 <div class="gallery">
-    <img src="2015 india visit 351.JPG" alt="dress" width="600" height="400">
+    <img src="https://github.com/user-attachments/assets/c1dc0142-78a4-459b-899e-461aa0d785ec" alt="dress" width="600" height="400">
 </div>
 
 <div class="gallery">
-    <img src="2015 india visit 294.JPG" alt="cousin" width="600" height="400">
+    <img src="https://github.com/user-attachments/assets/16f6be6c-542e-4a9a-a9b9-69702c64519e" alt="cousin" width="600" height="400">
 </div>
+
 
 <h1> Future Goals </h1>
 
