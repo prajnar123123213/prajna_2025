@@ -6,6 +6,13 @@ permalink: /about/
 
 <h1 style="font-size:3vw">Prajna R!</h1>
 
+## Future Goals
+-  Go to university for Aerospace Engineering!
+
+Can you guess what I want to do for my career?
+
+<h1 style="font-size:3vw">👩‍✈️🛩️</h1>
+
 <style>
 div.gallery {
   margin: 5px;
@@ -32,7 +39,6 @@ my piano teacher died, and I had to quit.
 ![piano recital 2015 (1)](https://github.com/user-attachments/assets/ade9aeda-2520-4992-94a3-1f5850406cca)
 
 Afer quitting piano, I switched to an instrument called Veena! Can you guess where this instrument is from?
-
 ## Born
  Tamil Nadu, India!
 - Moved to *San Diego* at age 5
@@ -60,17 +66,7 @@ Here are some pictures of my life living in India
 <div class="gallery">
     <img src="https://github.com/user-attachments/assets/16f6be6c-542e-4a9a-a9b9-69702c64519e" alt="cousin" width="600" height="400">
 </div>
- <br/><br/>
-<h1> Future Goals </h1>
-
-- 🏫 Go to university for Aerospace Engineering 
-
-- What career do you think I want to pursue?
-<h1 style="font-size:4vw">👩‍✈️🛩️</h1>
-
-<!-- vw means viewport width-->
-
-<hr>
+<!--hr means to add a line or break-->
 
 
 
