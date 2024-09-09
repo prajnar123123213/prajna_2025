@@ -60,8 +60,7 @@ Here are some pictures of my life living in India
 <div class="gallery">
     <img src="https://github.com/user-attachments/assets/16f6be6c-542e-4a9a-a9b9-69702c64519e" alt="cousin" width="600" height="400">
 </div>
-
-
+ <br/><br/>
 <h1> Future Goals </h1>
 
 - 🏫 Go to university for Aerospace Engineering 
