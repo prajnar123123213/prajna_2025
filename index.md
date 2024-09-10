@@ -41,6 +41,6 @@ div.gallery img {
 
 | Notebook 1 | Notebook2 2 | Notebook 3 |
 |----------|----------|----------|
-| [Row 1 Col 1](_notebooks/Foundation/B-tools_and_equipment/2023-08-19-devops_accounts.ipynb) | [Row 1 Col 2 ](_notebooks/Foundation/B-tools_and_equipment/2023-08-22-devops_tools-verify.ipynb)| [Row 1 Col 3 ](_notebooks/Foundation/B-tools_and_equipment/2023-08-23-devops-githhub_pages-play.ipynb)|
+| [Tools and Equiptment](_notebooks/Foundation/B-tools_and_equipment/2023-08-19-devops_accounts.ipynb) | [Verify ](_notebooks/Foundation/B-tools_and_equipment/2023-08-22-devops_tools-verify.ipynb)| [Github Play ](_notebooks/Foundation/B-tools_and_equipment/2023-08-23-devops-githhub_pages-play.ipynb)|
 
 
