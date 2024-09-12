@@ -7,6 +7,9 @@ hide: true
 
 ---
 
+{% include nav/home.html %}
+
+
 <style>
 div.gallery {
   margin: 6px;
