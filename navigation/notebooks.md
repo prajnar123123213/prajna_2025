@@ -6,3 +6,5 @@ permalink: /notebooks/
 ---
 
 {% include nav/home.html %}
+
+Notebook
