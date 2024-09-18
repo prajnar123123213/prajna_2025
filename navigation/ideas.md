@@ -28,7 +28,8 @@ permalink: /ideas/
 <h5> Complete List of Accomplishments For Sprint 1 </h5>
 
 - [] Hack 1
-    -[]
+    -[X]Emojis
+    -[] Everything else
 - [] Hack 2
     - [X] Alter index.md with images, links
     - [0.5] Make a submenu that points to Notebooks
