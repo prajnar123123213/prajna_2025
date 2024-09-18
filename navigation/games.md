@@ -8,9 +8,9 @@ permalink: /games/
 {% include nav/home.html %}
 
 <!--Following code is for a Snake game -->
-<h1> Snake Game <h1>
-<style>
+<h1> Snake Game </h1>
 
+<style>
     body{
     }
     .wrap{
