@@ -20,6 +20,7 @@ permalink: /ideas/
 | -Use wikipedia to upload data onto my website| -Failed miserably|
 | -Add a calculator to my games section| -Added Rock paper scissors instead|
 | -Make a notebook run a Javascript Cell| -Run the cell, and connect it onto my index.md page (in the submenu)|
+| -Link multiple notebooks| -Was only able to link one notebook|
 
 
 <hr>
@@ -27,9 +28,17 @@ permalink: /ideas/
 <h5> Complete List of Accomplishments For Sprint 1 </h5>
 
 - [] Hack 1
+    -[]
 - [] Hack 2
-- [] Hack 3 
+    - [X] Alter index.md with images, links
+    - [0.5] Make a submenu that points to Notebooks
+    - [X] Make Notebook running a JavaScript Cell
+    - [X] Make an attempted vs accomplishment notebook
+    - [X] Make an About Me page
+    - []Set up blong to alternate between light and dark mode
+    - [X] Modify theme of website
+    - [] Ulterance?
+- [X] Hack 3 
     - [X] Popcorn Hack #1
-    - [X] Mess around with SASS
 - [X] Hack 4
     - [X] Add a button by following provided format
