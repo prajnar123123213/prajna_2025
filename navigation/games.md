@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Snake
-description: Snake game
-permalink: /snake/
+title: Games
+description: interactive games
+permalink: /games/
 ---
 
 {% include nav/home.html %}
 
+<!--Following code is for a Snake game -->
+<h1> Snake Game <h1>
 <style>
 
     body{
@@ -372,5 +374,61 @@ permalink: /snake/
     })();
 </script>
 
- */ no html, not head, no body
+
+<hr>
+
+<!-- Following code is for Rock Paper Scissors-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock, Paper, Scissors Game</title>
+    <style>
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 10px;
+            cursor: pointer;
+            border-radius: 5px;
+            border: 1px solid #800080;
+        }
+        .result {
+            margin-top: 20px;
+            font-size: 20px;
+        }
+    </style>
+
+ <h1>Rock, Paper, Scissors</h1>
+    <!-- Add the buttons here -->
+    <div>
+        <button onclick="playGame('rock')">Rock</button>
+        <button onclick="playGame('paper')">Paper</button>
+        <button onclick="playGame('scissors')">Scissors</button>
+    </div>
+    <div class="result" id="result"></div>
+    <script>
+        function playGame(playerChoice) {
+            const choices = ['rock', 'paper', 'scissors'];
+            const computerChoice = choices[Math.floor(Math.random() * 3)];
+            // Determine the winner
+            let result = '';
+            if (playerChoice === computerChoice) {
+                result = "It's a tie!";
+            } else if (
+                (playerChoice === 'rock' && computerChoice === 'scissors') ||
+                (playerChoice === 'paper' && computerChoice === 'rock') ||
+                (playerChoice === 'scissors' && computerChoice === 'paper')
+            ) {
+                result = 'You win!';
+            } else {
+                result = 'You lose!';
+            }
+            // Display the result
+            document.getElementById('result').innerHTML = `
+                You chose <strong>${playerChoice}</strong>.<br>
+                Computer chose <strong>${computerChoice}</strong>.<br>
+                <strong>${result}</strong>
+            `;
+        }
+    </script>
+    
 
