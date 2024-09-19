@@ -3,6 +3,7 @@ layout: page
 title: Games
 description: interactive games
 permalink: /games/
+comments: true
 ---
 
 {% include nav/home.html %}
@@ -432,3 +433,11 @@ permalink: /games/
     </script>
     
 
+<script src="https://utteranc.es/client.js"
+        repo="nighthawkcoders/portfolio_2025"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -3,6 +3,7 @@ layout: page
 title: Ideas- Sprint 1
 description: A blog for ideas for CompSci, etc.
 permalink: /ideas/
+comments: true
 ---
 
 
