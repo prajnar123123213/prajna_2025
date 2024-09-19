@@ -2,7 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+comments: true
 ---
+
+
 
 <h1 style="font-size:3vw">Prajna R!</h1>
 
