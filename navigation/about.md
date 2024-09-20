@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About
 permalink: /about/
 comments: true
@@ -71,17 +71,6 @@ Here are some pictures of my life while living in India:
 <!--hr means to add a line or break-->
 
 
-
-
-
-<script src="https://utteranc.es/client.js"
-        repo="nighthawkcoders/portfolio_2025"
-        issue-term="title"
-        label="blogpost-comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
 
 
 
